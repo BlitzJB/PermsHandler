@@ -1,5 +1,5 @@
 ## Setup 
-in permstore.json (permshandler > permstore.json) to be setup as shown below:
+`permstore.json` (permshandler > permstore.json) to be setup as shown below:
 ```json
 {}
 ```
