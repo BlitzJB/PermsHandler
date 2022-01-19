@@ -54,7 +54,7 @@ Add more perm groups
             838384858181818
         ]
     },
-    "group3": {
+    "group2": {
         "level": 0,
         "users": [
             182838238188231,
